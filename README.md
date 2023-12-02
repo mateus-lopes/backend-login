@@ -17,3 +17,6 @@ O projeto se constitui em fazer uma aplicação em VueJS consumindo a API do [TM
 utilizando a tecnologia Axios, o projeto conterá tambem as funcionalidades Vue-Router e Pinia,
 será tambem feito um Backend com um CRUD de usuarios para login e cadastro de usuarios,
 o backend será feito em DjangoRestFramework, ele tambem contará com o Swagger para a documentação de API.
+
+## Data de inicio do projeto: 2/12/2023
+## Data de término do projeto: -/12/2023
