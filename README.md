@@ -27,5 +27,8 @@ utilizando a tecnologia Axios, o projeto conterá tambem as funcionalidades Vue-
 será tambem feito um Backend com um CRUD de usuarios para login e cadastro de usuarios,
 o backend será feito em DjangoRestFramework, ele tambem contará com o Swagger para a documentação de API.
 
+## [O que é Back-end?](https://www.totvs.com/blog/developers/back-end/)
+## [O que é Front-end?](https://www.totvs.com/blog/developers/front-end/)
+
 ## Data de inicio do projeto: 2/12/2023
 ## Data de término do projeto: -/12/2023
