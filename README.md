@@ -3,7 +3,7 @@
 
 ## Tecnologias utilizadas:
 
-### BackEnd
+### Back-end
 - [Python](https://www.python.org/)
 - [PDM](https://pdm-project.org/latest/)
 - [DjangoRestFramework](https://www.django-rest-framework.org/)
@@ -11,7 +11,7 @@
 - [SQLite](https://www.sqlite.org/index.html)
 - [Swagger](https://swagger.io/)
 
-### FrontEnd  
+### Front-end  
 - [JavaScript](https://www.javascript.com/)
 - [NPM](https://www.npmjs.com/)
 - [VueJS](https://vuejs.org/)
