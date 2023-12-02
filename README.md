@@ -1,4 +1,6 @@
-# Trabalho do 3trimestre de Desenvolvimento Web.
+# Trabalho do 3º-trimestre de Desenvolvimento Web
+## Projeto feito no  2° ano do Técnico em Informatica para Internet.
+
 ## Tecnologias utilizadas:
 
 ### BackEnd
