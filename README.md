@@ -6,7 +6,7 @@
 ### Back-end
 - [Python](https://www.python.org/)
 - [PDM](https://pdm-project.org/latest/)
-- [DjangoRestFramework](https://www.django-rest-framework.org/)
+- [Django REST Framework](https://www.django-rest-framework.org/)
 - [SimpleJWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Swagger](https://swagger.io/)
@@ -23,7 +23,7 @@
 ## Especificações do projeto:
 
 O projeto é uma aplicação que vai utilizar o framework [VueJS](https://vuejs.org/) para o [Front-end](https://www.totvs.com/blog/developers/front-end/),
-e o framework [Django Rest Framework](https://www.django-rest-framework.org/) para o [Back-end](https://www.totvs.com/blog/developers/back-end/),
+e o framework [Django REST Framework](https://www.django-rest-framework.org/) para o [Back-end](https://www.totvs.com/blog/developers/back-end/),
 será feito o desenvolvimento de um site utilizando a [API](https://www.ibm.com/br-pt/topics/rest-apis) do The Movie Database ([TMDB](https://www.themoviedb.org/)),
 utilizando o [Axios](https://axios-http.com/) para fazer as requisições da API, tambem será utilizado o [Pinia](https://pinia.vuejs.org/) para gerenciamento de estado.
 O [Back-end](https://www.totvs.com/blog/developers/back-end/) será responsavel por fazer Cadastro e Login do usuario, o usuario será obrigado a ter um cadastro feito para conseguir acessar as paginas do site, 
