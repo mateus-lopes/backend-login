@@ -7,6 +7,7 @@
 - [DjangoRestFramework](https://www.django-rest-framework.org/)
 - [Python](https://www.python.org/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [SimpleJWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
 ### FrontEnd  
 - [NPM](https://www.npmjs.com/)
