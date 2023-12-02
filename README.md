@@ -5,6 +5,7 @@
 - [DjangoRestFramework](https://www.django-rest-framework.org/)
 - [Python](https://www.python.org/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [NPM](https://www.npmjs.com/)
 - [VueJS](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [JavaScript](https://www.javascript.com/)
