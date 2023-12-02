@@ -4,21 +4,22 @@
 ## Tecnologias utilizadas:
 
 ### BackEnd
-- [PDM](https://pdm-project.org/latest/)
-- [Swagger](https://swagger.io/)
-- [DjangoRestFramework](https://www.django-rest-framework.org/)
 - [Python](https://www.python.org/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [PDM](https://pdm-project.org/latest/)
+- [DjangoRestFramework](https://www.django-rest-framework.org/)
 - [SimpleJWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Swagger](https://swagger.io/)
 
 ### FrontEnd  
+- [JavaScript](https://www.javascript.com/)
 - [NPM](https://www.npmjs.com/)
 - [VueJS](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-- [JavaScript](https://www.javascript.com/)
 - [Pinia](https://pinia.vuejs.org/)
 - [Axios](https://axios-http.com/)
-  
+- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap 5](https://getbootstrap.com/)
+
 ## Especificações do projeto:
 
 O projeto se constitui em fazer uma aplicação em VueJS consumindo a API do [TMDB](https://www.themoviedb.org/)
