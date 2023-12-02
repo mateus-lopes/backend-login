@@ -1,10 +1,14 @@
 # Trabalho do 3trimestre de Desenvolvimento Web.
 ## Tecnologias utilizadas:
+
+### BackEnd
 - [PDM](https://pdm-project.org/latest/)
 - [Swagger](https://swagger.io/)
 - [DjangoRestFramework](https://www.django-rest-framework.org/)
 - [Python](https://www.python.org/)
 - [SQLite](https://www.sqlite.org/index.html)
+
+### FrontEnd  
 - [NPM](https://www.npmjs.com/)
 - [VueJS](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
