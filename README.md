@@ -11,7 +11,7 @@
 - [Pinia](https://pinia.vuejs.org/)
 - [Axios](https://axios-http.com/)
   
-## Especificações do projeto -- 
+## Especificações do projeto:
 
 O projeto se constitui em fazer uma aplicação consumindo a API do [TMDB](https://www.themoviedb.org/)
 utilizando a tecnologia Axios, o projeto conterá tambem as funcionalidades Vue-Router e Pinia,
