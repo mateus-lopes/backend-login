@@ -22,10 +22,13 @@
 
 ## Especificações do projeto:
 
-O projeto se constitui em fazer uma aplicação em VueJS consumindo a API do [TMDB](https://www.themoviedb.org/)
-utilizando a tecnologia Axios, o projeto conterá tambem as funcionalidades Vue-Router e Pinia,
-será tambem feito um Backend com um CRUD de usuarios para login e cadastro de usuarios,
-o backend será feito em DjangoRestFramework, ele tambem contará com o Swagger para a documentação de API.
+O projeto é uma aplicação que vai utilizar o framework [VueJS](https://vuejs.org/) para o [Front-end](https://www.totvs.com/blog/developers/front-end/),
+e o framework [Django Rest Framework](https://www.django-rest-framework.org/) para o [Back-end](https://www.totvs.com/blog/developers/back-end/),
+será feito o desenvolvimento de um site utilizando a [API](https://www.ibm.com/br-pt/topics/rest-apis) do The Movie Database ([TMDB](https://www.themoviedb.org/)),
+utilizando o [Axios](https://axios-http.com/) para fazer as requisições da API, tambem será utilizado o [Pinia](https://pinia.vuejs.org/) para gerenciamento de estado.
+O [Back-end](https://www.totvs.com/blog/developers/back-end/) será responsavel por fazer Cadastro e Login do usuario, o usuario será obrigado a ter um cadastro feito para conseguir acessar as paginas do site, 
+o [Back-end](https://www.totvs.com/blog/developers/back-end/) tambem contará com a funcionalidade de envio de emails para que o usuario possa trocar de senha, a troca de senha acontece por via de um token
+que é disponibilizado via Email.
 
 ## [O que é Back-end?](https://www.totvs.com/blog/developers/back-end/)
 ## [O que é Front-end?](https://www.totvs.com/blog/developers/front-end/)
