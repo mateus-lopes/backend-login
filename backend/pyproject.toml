@@ -10,6 +10,7 @@ dependencies = [
     "setuptools>=69.0.2",
     "djangorestframework>=3.14.0",
     "djangorestframework-simplejwt>=5.3.0",
+    "drf-spectacular>=0.26.5",
 ]
 requires-python = ">=3.11"
 readme = "README.md"

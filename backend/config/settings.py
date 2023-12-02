@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "drf_spectacular",
     "rest_framework",
     "rest_framework_simplejwt",
     "usuario",
@@ -50,7 +51,14 @@ REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
         "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
  
+}
+
+SPECTACULAR_SETTINGS = {
+    "TITLE": "API",
+    "DESCRIPTION": "API para gerenciamento de Usuarios para o trabalho de dev-web-3tri.",
+    "VERSION": "1.0.0",
 }
 
 MIDDLEWARE = [
