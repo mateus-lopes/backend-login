@@ -1,9 +1,9 @@
 <script setup>
-import CentralComp from '@/components/CentralComp.vue'
+import HeaderComp from '@/components/HeaderComp.vue'
 </script>
 <template>
 
-<CentralComp></CentralComp>
+<HeaderComp />
 
 </template>
 <style scoped></style>

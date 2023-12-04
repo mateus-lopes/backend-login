@@ -11,17 +11,17 @@ const router = createRouter({
     },
     {
       path: '/about',
-      name: 'about',
+      name: 'aboutView',
       component: () => import('../views/AboutView.vue')
     },
     {
       path: '/forgotpassword',
-      name: 'forgotPassword',
+      name: 'forgotPasswordView',
       component: () => import('../views/ForgotPasswordView.vue')
     },
     {
       path: '/registro',
-      name: 'registro',
+      name: 'registroView',
       component: () => import('../views/RegistroView.vue')
     },
     {
@@ -29,6 +29,16 @@ const router = createRouter({
     name: 'mainView',
     component: () => import('../views/MainView.vue')
   },
+  {
+    path: '/movies',
+    name: 'moviesView',
+    component: () => import('../views/MoviesView.vue')
+  },
+  {
+    path: '/brasil',
+    name: 'brasilView',
+    component: () => import('../views/BrasilMoviesView.vue')
+  }
 
   ]
 })
